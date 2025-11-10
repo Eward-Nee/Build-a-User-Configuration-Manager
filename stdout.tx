@@ -1,0 +1,9 @@
+Setting 'theme' already exists! Cannot add a new setting with this name.
+Setting 'volume' added with value 'high' successfully!
+Setting 'theme' updated to 'dark' successfully!
+Setting 'language' does not exist! Cannot update a non-existing setting.
+Setting 'theme' deleted successfully!
+Current User Settings:
+Notifications: enabled
+Volume: high
+
